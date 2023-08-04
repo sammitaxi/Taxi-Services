@@ -294,7 +294,9 @@ h5 {
   margin-bottom: 15px;
   padding-left: 15px;
 }
-
+.detail-box p{
+  text-align: justify;
+}
 form {
   display: -webkit-box;
   display: -ms-flexbox;
